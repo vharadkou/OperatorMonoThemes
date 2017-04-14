@@ -2,7 +2,7 @@
     "name": "operatormonodarktheme",
     "displayName": "OperatorMonoDarkTheme",
     "description": "Operator Mono",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "Valiantsin",
     "engines": {
         "vscode": "^1.11.0"
