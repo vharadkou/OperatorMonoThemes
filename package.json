@@ -1,0 +1,22 @@
+{
+    "name": "operatormonodarktheme",
+    "displayName": "OperatorMonoDarkTheme",
+    "description": "Operator Mono",
+    "version": "0.0.1",
+    "publisher": "Valiantsin",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Operator Mono Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_plus.json"
+            }
+        ]
+    }
+}
