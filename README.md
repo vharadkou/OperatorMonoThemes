@@ -16,4 +16,4 @@ ext install operatormonodarktheme
 
 ## Repository
 
-[repository](https://github.com/vharadkou/OperatorMonoDarkTheme)
+[https://github.com/vharadkou/OperatorMonoDarkTheme](https://github.com/vharadkou/OperatorMonoDarkTheme)
