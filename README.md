@@ -20,13 +20,13 @@ ext install operatormonodarktheme
 ## Screenshots
 
 ### JavaScript
-![](https://github.com/vharadkou/OperatorMonoDarkTheme/blob/master/screenshots/js.png?raw=true)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/js.png)
 
 ### TypeScript
-![](https://github.com/vharadkou/OperatorMonoDarkTheme/blob/master/screenshots/ts.png?raw=true)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/ts.png)
 
 ### html
-![](https://github.com/vharadkou/OperatorMonoDarkTheme/blob/master/screenshots/html.png?raw=true)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/html.png)
 
 ## Repository
 
