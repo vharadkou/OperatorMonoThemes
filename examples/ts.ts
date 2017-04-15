@@ -1,9 +1,9 @@
-interface Hero {
+export interface Hero {
     name: string;
     id: string;
 }
 
-class HeroService {
+export class HeroService {
 
     private heroes: Hero[];
 
