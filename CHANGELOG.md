@@ -1,7 +1,6 @@
 # Change Log
-All notable changes to the "operatormonodarktheme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.4.1 (May 5, 2017)
 
-## [Unreleased]
-- Initial release
+- Fixed [#1](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/1) -
+  Add custom styles to Pug files
