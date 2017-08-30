@@ -297,6 +297,13 @@
             }
         },
         {
+            "scope": "keyword.operator.expression.delete",
+            "settings": {
+                "foreground": "#569cd6",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "scope": [
                 "keyword.operator.new",
                 "keyword.operator.expression",
