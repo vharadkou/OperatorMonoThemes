@@ -68,6 +68,13 @@
             }
         },
         {
+            "name": "Delete operator keyword",
+            "scope": "keyword.operator.expression.delete",
+            "settings": {
+                "foreground": "#C586C0"
+            }
+        },
+        {
             "name": "Variable and parameter name",
             "scope": [
                 "variable",
