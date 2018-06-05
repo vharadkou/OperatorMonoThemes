@@ -162,6 +162,12 @@
 			"settings": {
 				"foreground": "#d7ba7d"
 			}
+		},
+		{
+		  	"scope": "constant.character.format.placeholder",
+		  	"settings": {
+		    		"fontStyle": "italic"
+		  	}
 		}
     ]
 }
