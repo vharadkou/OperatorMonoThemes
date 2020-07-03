@@ -1,20 +1,32 @@
-# Change Log
+### Versions
 
-## 0.7.0 (July 21, 2018)
+## 1.0.0
 
-- Feat - add italic font and yellow color for jsx/tsx attributes
+###### _July 3, 2020_
 
-## 0.6.0 (June 5, 2018)
+- feat: synchronize json files with VS Code 1.46.1
+- feat: support `editor.semanticHighlighting` ([#8](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/8))
 
-- Feat [#5](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/5) -
-  update to match default theme, python string formatting
+## 0.7.0
 
-## 0.5.0 (September 12, 2017)
+###### _July 21, 2018_
 
-- Feat [#2](https://github.com/vharadkou/OperatorMonoDarkTheme/pull/2) - 
-  styling for 'delete' keyword
+- feat: support italic font and yellow color for `jsx/tsx` attributes
 
-## 0.4.1 (May 5, 2017)
+## 0.6.0
 
-- Fix [#1](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/1) -
-  add custom styles to Pug files
+###### _June 5, 2018_
+
+- feat: support python string formatting ([#5](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/5))
+
+## 0.5.0
+
+###### _September 12, 2017_
+
+- feat: support custom styles for `delete` keyword ([#2](https://github.com/vharadkou/OperatorMonoDarkTheme/pull/2))
+
+## 0.4.1
+
+###### _May 5, 2017_
+
+- feat: support custom styles for `.pug` files ([#1](https://github.com/vharadkou/OperatorMonoDarkTheme/issues/1))
