@@ -1,8 +1,15 @@
-## Operator Mono Dark Theme
+## Operator Mono Themes
 
 [Link to Extension](https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme)
 
-Color theme only. You need to install this [Font](https://www.typography.com/blog/introducing-operator). (which you can see on screenshots below).
+Contains 4 Themes:
+
+- Dark Theme
+- Dark Modern Theme
+- Light Theme
+- Light Modern Theme
+
+You need to install this [Font](https://www.typography.com/blog/introducing-operator) (which you can see on screenshots below).
 Or you can install your own font with regular and italic presets.
 
 After font installation you need to set vscode setting to
@@ -24,14 +31,17 @@ ext install operatormonodarktheme
 ### JavaScript
 
 ![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/js.png)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/js_light.png)
 
 ### TypeScript
 
 ![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/ts.png)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/ts_light.png)
 
-### html
+### HTML
 
 ![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/html.png)
+![](https://raw.githubusercontent.com/vharadkou/OperatorMonoDarkTheme/master/screenshots/html_light.png)
 
 ## Repository
 
