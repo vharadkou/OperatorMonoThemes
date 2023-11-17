@@ -1,9 +1,9 @@
 {
   "name": "operatormonodarktheme",
-  "displayName": "OperatorMonoDarkTheme",
+  "displayName": "Operator Mono Dark Theme",
   "description": "Operator Mono",
   "icon": "icon.png",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "Valiantsin",
   "engines": {
     "vscode": "^1.80.0"
