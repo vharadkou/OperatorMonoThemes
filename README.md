@@ -36,3 +36,7 @@ ext install operatormonodarktheme
 ## Repository
 
 [https://github.com/vharadkou/OperatorMonoDarkTheme](https://github.com/vharadkou/OperatorMonoDarkTheme)
+
+## Original Theme
+
+[https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes)

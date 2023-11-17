@@ -13,7 +13,7 @@ export class HeroService {
   /**
    * method for getting hero by id
    */
-  public getHero(id: string): Hero {
+  public getHero(id: string): Hero | undefined {
     return this.heroes.find((hero) => hero.id === id);
   }
 
@@ -30,4 +30,4 @@ heroService.addHero({ id: "1zxc-2asd-3qwe", name: "Cool Hero" });
 let heroes = heroService.getHeroes();
 
 let superHero = heroService.getHero("1qwe-2asd-3zxc");
-console.log(superHero.name);
+console.log(superHero?.name);
