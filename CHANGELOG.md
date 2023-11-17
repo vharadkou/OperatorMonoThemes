@@ -1,5 +1,18 @@
 ### Versions
 
+## 2.0.1
+
+###### _November 18, 2023_
+
+- docs: update changelog
+
+## 2.0.0
+
+###### _November 18, 2023_
+
+- feat: 4 theme colors, dark and light (inc. modern)
+- feat: update icon and license
+
 ## 1.1.0
 
 ###### _November 17, 2023_
