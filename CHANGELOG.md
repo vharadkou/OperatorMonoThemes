@@ -1,5 +1,11 @@
 ### Versions
 
+## 2.0.2
+
+###### _November 18, 2023_
+
+- docs: update repository link
+
 ## 2.0.1
 
 ###### _November 18, 2023_
