@@ -3,10 +3,10 @@
   "displayName": "Operator Mono Themes",
   "description": "Dark and Light themes for Operator Mono font",
   "icon": "icon.png",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "publisher": "Valiantsin",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"

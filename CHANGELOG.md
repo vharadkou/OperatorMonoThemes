@@ -1,5 +1,11 @@
 ### Versions
 
+## 2.1.0
+
+###### _January 25, 2025_
+
+- feat: vscode ^1.96, match default theme
+
 ## 2.0.2
 
 ###### _November 18, 2023_
