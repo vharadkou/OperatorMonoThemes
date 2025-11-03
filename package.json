@@ -5,11 +5,21 @@
   "icon": "icon.png",
   "version": "2.1.0",
   "publisher": "Valiantsin",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "operator mono",
+    "dark",
+    "light",
+    "color theme",
+    "font",
+    "italic"
   ],
   "contributes": {
     "themes": [
@@ -39,5 +49,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vharadkou/OperatorMonoThemes"
+  },
+  "bugs": {
+    "url": "https://github.com/vharadkou/OperatorMonoThemes/issues"
   }
 }
